@@ -1,6 +1,7 @@
 
 import React from 'react'
 import MenuOptions from '@/components/sidebar'
+import Settings from './(pages)/settings/page'
 type Props = { children: React.ReactNode }
 
 const Layout = ({ children }: Props) => {
